@@ -8,7 +8,7 @@
 <ul>
   <li>Mesh collisions to cuboids and spheres.</li>
   <li>Wind computation. Asset for random wind is included too.</li>
-  <li>Parametric. For example: gravity, stiffness, substeps, etcetera.</li>
+  <li>Attributes to adjust as desired. For example: gravity, stiffness, substeps, etcetera.</li>
   <li>Custom force impulses. This allows for further videogame implementation.</li>
   <li>Dynamic fixers.</li>
 </ul>
